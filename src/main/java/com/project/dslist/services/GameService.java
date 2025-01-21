@@ -14,7 +14,7 @@ public class GameService {
     @Autowired
     private GameRepository gameRepository;
 
-// opção também utilizando lombok
+// or use lombok(Spring)
 //    private final GameService service;
 //    @Autowired
 //    public GameService(GameService service) {
